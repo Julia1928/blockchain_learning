@@ -8,21 +8,21 @@
 
 -In terms of implementation coding for ERC-20 tokens, the six basic coding functions are:
 
-**totalSupply()**
+*totalSupply()*
     Returns the amount of tokens in existence.
     
-**balanceOf(account)**
+*balanceOf(account)*
     Returns the amount of tokens owned by account
     
-**allowance(owner , spender)**
+*allowance(owner , spender)**
     Returns the remaining number of tokens that spender will be allowed to spend on behalf of owner through transferFrom. 
     
-**transfer(to , amount)**
+*transfer(to , amount)**
     Returns the remaining number of tokens that spender will be allowed to spend on behalf of owner through transferFrom. 
     
-**approve(spender , amount)**
+*approve(spender , amount)**
     Sets amount as the allowance of spender over the caller’s tokens.Returns a boolean value indicating whether the operation succeeded
     
-**transferFrom(from , to , amount)**
+*transferFrom(from , to , amount)**
     Moves amount tokens from from to to using the allowance mechanism. amount is then deducted from the caller’s allowance.Returns a boolean value indicating whether the operation succeeded.
 
