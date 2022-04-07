@@ -1,9 +1,9 @@
 # Blockchain_learning
 
-##ERC20
-####-One of the most significant Ethereum tokens is known as ERC-20
-####-It is a technical standard used for all smart contracts on the Ethereum blockchain for token implementation and provides a list of rules that all Ethereum-based tokens must follow
-####-In terms of implementation coding for ERC-20 tokens, the six basic coding functions are:
+### ERC20
+-One of the most significant Ethereum tokens is known as ERC-20
+-It is a technical standard used for all smart contracts on the Ethereum blockchain for token implementation and provides a list of rules that all Ethereum-based tokens must follow
+-In terms of implementation coding for ERC-20 tokens, the six basic coding functions are:
 
 **totalSupply()**
     Returns the amount of tokens in existence.
