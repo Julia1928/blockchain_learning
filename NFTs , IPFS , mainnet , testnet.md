@@ -1,6 +1,6 @@
-#Blockchain_learning
+# Blockchain_learning
 
-###NFT(Non-Fungible Token)
+### NFT(Non-Fungible Token)
 
 *NFTs turn your digital assets into one of a kind by creating a unique digital signature which defines the ownership of your assets and that can be bought and sold for real money like cryptocurrency or any other asset like a Non-Fungible Token
 
@@ -14,7 +14,7 @@
 
 ***
 
-###IPFS(InterPlametary File Storage)
+### IPFS(InterPlametary File Storage)
 
 *IPFS is a distributed system for storing and accessing files, websites, applications, and data.
 
